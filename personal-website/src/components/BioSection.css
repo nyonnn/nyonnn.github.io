@@ -1,0 +1,41 @@
+.bio-section {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .bio-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .bio-content h1 {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .bio-content p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .bio-content button {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .bio-content button:hover {
+    background-color: #333;
+  }
+  
+  .bio-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  

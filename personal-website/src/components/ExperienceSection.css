@@ -1,0 +1,36 @@
+.experience-section {
+    padding: 20px;
+    background-color: #eaeaea;
+  }
+  
+  .experience-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .experience-content h2 {
+    font-size: 1.5rem;
+    margin: 0 0 10px;
+  }
+  
+  .experience-content ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .experience-content li {
+    margin: 5px 0;
+    font-size: 1rem;
+  }
+  
+  .experience-content a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .experience-content a:hover {
+    text-decoration: underline;
+  }
+  
