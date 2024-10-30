@@ -14,7 +14,7 @@ function ProjectsSection() {
         </ul>
       </div>
       <div className="projects-image">
-        <img src={`${process.env.PUBLIC_URL}/images/project.jpg`} alt="Project" />
+        <img src={`${process.env.PUBLIC_URL}/images/project.jpg`} alt="Macbook with code onscreen" />
       </div>
     </section>
   );

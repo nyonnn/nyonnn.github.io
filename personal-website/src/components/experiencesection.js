@@ -6,7 +6,7 @@ function ExperienceSection() {
   return (
     <section className="experience-section">
       <div className="experience-image">
-        <img src={`${process.env.PUBLIC_URL}/images/experience.png`} alt="Experience" />
+        <img src={`${process.env.PUBLIC_URL}/images/experience.png`} alt="Experience Image Neo indicators logo" />
       </div>
       <div className="experience-content">
         <h2>My Experience</h2>

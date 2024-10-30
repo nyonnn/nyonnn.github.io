@@ -14,7 +14,7 @@ function HobbiesSection() {
         </ul>
       </div>
       <div className="hobbies-image">
-        <img src={`${process.env.PUBLIC_URL}/images/hobby.jpg`} alt="Hobby" />
+        <img src={`${process.env.PUBLIC_URL}/images/hobby.jpg`} alt="Hobbies laptop with trading chart" />
       </div>
     </section>
   );
