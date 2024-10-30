@@ -8,12 +8,12 @@ function BioSection() {
       <div className="bio-content">
         <h1>Maxim Maletsky</h1>
         <p>Computer Science Student, Pinescript Developer, Financial Analyst</p>
-        <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+        <a href="https://ca.linkedin.com/in/maxim-maletsky-ab42a1235" target="_blank" rel="noopener noreferrer">
           <button>See My Projects</button>
         </a>
       </div>
       <div className="bio-image">
-        <img src={`${process.env.PUBLIC_URL}/images/profile.jpg`} alt="Maxim Maletsky's profile photo" />
+        <img src={`${process.env.PUBLIC_URL}/images/profile.png`} alt="Maxim Maletsky's profile photo" />
       </div>
     </section>
   );
